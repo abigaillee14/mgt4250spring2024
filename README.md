@@ -2,3 +2,12 @@
 Author: Abigail Lee, alee42@elon.edu
 
 <img width="400" alt="Screen Shot 2024-05-07 at 3 05 22 PM" src="https://github.com/abigaillee14/mgt4250spring2024/assets/169195918/83d98336-24fd-4e61-b084-0709d4dd6667">
+
+## Project Description
+### Questions of interest
+- Question 1
+- Question 2
+### Importance
+- This is *especially* **important** because
+ 1. Reason 1
+ 2. Reason 2 [Elon University](https://elon.edu)
