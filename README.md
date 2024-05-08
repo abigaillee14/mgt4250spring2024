@@ -5,7 +5,7 @@ Author: Abigail Lee, alee42@elon.edu
 
 
 # Project Description
-This project for MGT4250 aimed to answer business-related questions by analyzing real-world data, producing a sharable repository and a visualization application, and exploring potential business opportunities as a business analyst. For my project, I focused on how students perform differently given certain factors. 
+This project for MGT4250 At Elon University aimed to answer business-related questions by analyzing real-world data, producing a sharable repository and a visualization application, and exploring potential business opportunities as a business analyst. For my project, I focused on how students perform differently given certain factors. 
 
 To display these visualizations, I used [Tableau Public](https://public.tableau.com/views/DataVisualizationandStoryTellingFinalProject/SubjectScorebyGender?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link). Given my data and the answers I was looking for, I felt that Tableau would be most effective. I used their visualizations and tools on Tableau to display my data best.  
 
