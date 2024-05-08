@@ -14,7 +14,8 @@ Author: Abigail Lee, alee42@elon.edu
 I chose this [data set](https://www.kaggle.com/datasets/bhavikjikadara/student-study-performance) on which my visualizations were based. This data set lists multiple key factors influencing students' performances. Some categories include gender, race/ethnicity, parental level of education, lunch, and the completion of a test preparation course.
 
 To display these visualizations, I used [Tableau Public](https://public.tableau.com/views/DataVisualizationandStoryTellingFinalProject/SubjectScorebyGender?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link). 
-##### Interpreting Visualizations
+
+## Interpreting Visualizations
 
 <img width="783" alt="Screen Shot 2024-05-07 at 8 06 11 PM" src="https://github.com/abigaillee14/mgt4250spring2024/assets/169195918/bace6bdb-e668-4aba-81b9-869496b4ddd5">
 
