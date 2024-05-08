@@ -17,17 +17,18 @@ To display these visualizations, I used [Tableau Public](https://public.tableau.
 
 ## Interpreting Visualizations
 
-<img width="783" alt="Screen Shot 2024-05-07 at 8 06 11 PM" src="https://github.com/abigaillee14/mgt4250spring2024/assets/169195918/bace6bdb-e668-4aba-81b9-869496b4ddd5">
-
 ### **Figure 1:** 
 I analyzed the math, reading, and writing scores by gender using a bar graph. This graph shows that females scored higher in almost all three sections than males. Males scored only 5 points higher than females in the math section. By analyzing only this data set, one can conclude that females scored higher than males during testing overall.
 
-<img width="864" alt="Screen Shot 2024-05-07 at 8 07 12 PM" src="https://github.com/abigaillee14/mgt4250spring2024/assets/169195918/d0231292-d438-4dc7-9abe-f813f3e43c08">
+<img width="783" alt="Screen Shot 2024-05-07 at 8 06 11 PM" src="https://github.com/abigaillee14/mgt4250spring2024/assets/169195918/bace6bdb-e668-4aba-81b9-869496b4ddd5">
 
 ### **Figure 2:** 
 I focused on the parental education section. The possibilities for parental education were high school, some high school, some college, a bachelor's degree, an associate's degree, or a master's degree. In this visualization, I choose to use a horizontal bar graph to represent the data. This chart shows an obvious trend between parents' education and the student's success in the math section. Mostly, parents who have received higher education levels correlated positively with the student's math scores.
 
-<img width="697" alt="Screen Shot 2024-05-07 at 8 08 00 PM" src="https://github.com/abigaillee14/mgt4250spring2024/assets/169195918/6839bb0e-c209-4252-8956-46f1d90bb6b8">
+<img width="864" alt="Screen Shot 2024-05-07 at 8 07 12 PM" src="https://github.com/abigaillee14/mgt4250spring2024/assets/169195918/d0231292-d438-4dc7-9abe-f813f3e43c08">
 
 ### **Figure 3:** 
 This demonstrates the variation of people who had completed the preparation vs those who did not and their average scores on each section. The scatter plot shows that those who completed the preparation scored higher than those who did not in each section.
+
+<img width="697" alt="Screen Shot 2024-05-07 at 8 08 00 PM" src="https://github.com/abigaillee14/mgt4250spring2024/assets/169195918/6839bb0e-c209-4252-8956-46f1d90bb6b8">
+
