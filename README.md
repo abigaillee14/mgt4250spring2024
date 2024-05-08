@@ -5,7 +5,7 @@ Author: Abigail Lee, alee42@elon.edu
 
 
 # Project Description
-This project aimed to answer business-related questions by analyzing real-world data, producing a sharable repository and a visualization application, and exploring potential business opportunities as a business analyst. For my project, I focused on how students perform differently given certain factors. 
+This project for MGT4250 aimed to answer business-related questions by analyzing real-world data, producing a sharable repository and a visualization application, and exploring potential business opportunities as a business analyst. For my project, I focused on how students perform differently given certain factors. 
 
 ## Question of interest
 - What factors may cause certain students to perform better than others?
