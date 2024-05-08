@@ -36,6 +36,7 @@ Lastly, I analyzed test preparation and its effect on students' performance. Thi
 
 <img width="697" alt="Screen Shot 2024-05-07 at 8 08 00 PM" src="https://github.com/abigaillee14/mgt4250spring2024/assets/169195918/6839bb0e-c209-4252-8956-46f1d90bb6b8">
 
+#### Visualisation Conclusion 
 In conclusion, while gender, parental education, and test preparation emerge as significant factors influencing student performance, the analysis underscores the complexity of academic achievement. Gender disparities, as revealed in the comparison of math, reading, and writing scores, demonstrate the societal dynamics affecting educational outcomes. Moreover, the correlation between parental education levels and student success underscores the relationship between family background and academic achievement. Additionally, the visible contrast in performance between students who underwent test preparation and those who did not underscores the pivotal role of access to resources and opportunities. Together, these findings illuminate the multifaceted nature of student performance, urging a holistic approach to understanding and addressing the factors shaping educational outcomes.
 
 # Discussion and Summary
