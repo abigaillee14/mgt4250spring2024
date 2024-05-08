@@ -13,9 +13,11 @@ Author: Abigail Lee, alee42@elon.edu
 #### Data Source
 I chose this [data set](https://www.kaggle.com/datasets/bhavikjikadara/student-study-performance) on which my visualizations were based. This data set lists multiple key factors influencing students' performances. Some categories include gender, race/ethnicity, parental level of education, lunch, and the completion of a test preparation course.
 ##### Interpreting Visualizations
+
 <img width="783" alt="Screen Shot 2024-05-07 at 8 06 11 PM" src="https://github.com/abigaillee14/mgt4250spring2024/assets/169195918/bace6bdb-e668-4aba-81b9-869496b4ddd5">
 
 **Figure 1:** I analyzed the math, reading, and writing scores by gender using a bar graph. This graph shows that females scored higher in almost all three sections than males. Males scored only 5 points higher than females in the math section. By analyzing only this data set, one can conclude that females scored higher than males during testing overall.
+
 <img width="864" alt="Screen Shot 2024-05-07 at 8 07 12 PM" src="https://github.com/abigaillee14/mgt4250spring2024/assets/169195918/d0231292-d438-4dc7-9abe-f813f3e43c08">
 
 **Figure 2:** I focused on the parental education section. The possibilities for parental education were high school, some high school, some college, a bachelor's degree, an associate's degree, or a master's degree. In this visualization, I choose to use a horizontal bar graph to represent the data. This chart shows an obvious trend between parents' education and the student's success in the math section. Mostly, parents who have received higher education levels correlated positively with the student's math scores.
