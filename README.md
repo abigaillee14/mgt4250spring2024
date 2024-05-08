@@ -5,6 +5,8 @@ Author: Abigail Lee, alee42@elon.edu
 
 
 # Project Description
+This project aimed to answer business-related questions by analyzing real-world data, producing a sharable repository and a visualization application, and exploring potential business opportunities as a business analyst. For my project, I focused on how students perform differently given certain factors. 
+
 ## Question of interest
 - What factors may cause certain students to perform better than others?
 ## Importance
@@ -13,7 +15,7 @@ Author: Abigail Lee, alee42@elon.edu
  2. “Academic performance is important for students as a result of educational experience in colleges to represent knowledge, skills, and attitudes. Academic performance becomes one of the key factors in determining students’ success in their future careers.”  [tandfonline.com](https://www.tandfonline.com/doi/full/10.1080/23311975.2022.2101326#:~:text=Academic%20performance%20is%20important%20for,success%20in%20their%20future%20careers)
 
 # Data Description and Upload
-I chose this [data set](https://www.kaggle.com/datasets/bhavikjikadara/student-study-performance) for my visualizations. This data set lists multiple key factors influencing students' performances. The categories include gender, race/ethnicity, parental level of education, lunch, and the completion of a test preparation course. The data set provides the students' math, reading, and writing scores based on those given factors. Within my visualizations, I focus on the student's average scores within each category. I specifically studied gender, parental education level, and test preparation completion. These factors, in my opinion, are most influential and could provide the best information to answer my question. You can find this data in the files within my repository. 
+I chose this [data set](https://www.kaggle.com/datasets/bhavikjikadara/student-study-performance) for my visualizations. This data set lists multiple key factors influencing students' performances. The categories include gender, race/ethnicity, parental level of education, lunch, and the completion of a test preparation course. The data set provides the students' math, reading, and writing scores based on those given factors. Within my visualizations, I focus on the student's average scores within each category. I specifically studied gender, parental education level, and test preparation completion. These factors, in my opinion, are most influential and could provide the best information to answer my question. You can download this data from the files within my repository or directly through [Kaggle.](https://www.kaggle.com/datasets/bhavikjikadara/student-study-performance)
 
 To display these visualizations, I used [Tableau Public](https://public.tableau.com/views/DataVisualizationandStoryTellingFinalProject/SubjectScorebyGender?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link). Given my data and the answers I was looking for, I felt that Tableau would be most effective. I used their visualizations and tools on Tableau to display my data best.  
 
